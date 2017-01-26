@@ -59,8 +59,7 @@ public class MainController : MonoBehaviour {
     }
 
     private void HandleShowResult (ShowResult result) {
-        switch (result)
-        {
+        switch (result) {
         case ShowResult.Finished:
             Generate();
             break;
