@@ -1,7 +1,6 @@
 ﻿using UnityEngine.UI;
 using UnityEngine;
 using UnityEngine.Advertisements;
-using System.Collections;
 using System.Collections.Generic;
 
 public class MainController : MonoBehaviour {
